@@ -3,7 +3,7 @@
   "displayName": "React/Redux/Router/React-Native/Import & ES7 Snippets",
   "description": "React, Redux, Router, and Import are all commonly used in React applications to handle different aspects of the application's functionality and structure.",
   "publisher": "Xpertpk",
-  "icon": "./images/react.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url":"https://github.com/xpertpk"
