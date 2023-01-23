@@ -1,0 +1,34 @@
+{
+  "name": "react-redux-snippets",
+  "displayName": "React/Redux/Router/React-Native/Import & ES7 Snippets",
+  "description": "React, Redux, Router, and Import are all commonly used in React applications to handle different aspects of the application's functionality and structure.",
+  "publisher": "Xpertpk",
+  "icon": "./images/react.png",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/xpertpk"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+          "language": "javascriptreact",
+          "path": "./snippets/snippets.json"
+      },
+      {
+          "language": "javascript",
+          "path": "./snippets/snippets.json"
+      },
+      {
+          "language": "jsx",
+          "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
